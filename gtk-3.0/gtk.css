@@ -1307,7 +1307,6 @@ headerbar {
   min-height: 42px;
   padding: 0 6px;
   box-shadow: 0 -1px 1px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0), inset 0 1px rgba(0, 0, 0, 0);
-  box-shadow: 10px, 20px;
   background-color: @the_background;
   color: #cccccc;
 }
@@ -6592,7 +6591,7 @@ popover.background.places-menu row {
 .budgie-panel #tasklist-button {
   padding: 0 4px;
   background-color: rgba(255, 255, 255, 0);
-  border-radius: 5;
+  border-radius: 5px;
   border: 1px solid transparent;
   color: rgba(255, 255, 255, 0.7);
 }
