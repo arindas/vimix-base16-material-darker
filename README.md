@@ -1,9 +1,9 @@
-# Vimix-Midnight
-A darker version of the [Vimix-Dark-Laptop-Doder](https://github.com/vinceliuice/vimix-gtk-themes/) GTK theme.
+# Vimix-Devoid
+A darker version of the [Vimix-Midnight](https://github.com/zortax/Vimix-Midnight) GTK theme.
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot2.png)
 
 ### Installation
 ```bash
-sudo git clone https://github.com/Zortax/Vimix-Midnight /usr/share/themes/Vimix-Midnight
+sudo git clone https://github.com/deyloop/Vimix-Devoid /usr/share/themes/Vimix-Devoid
 ```
