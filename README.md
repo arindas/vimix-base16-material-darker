@@ -1,9 +1,9 @@
 # Vimix-Devoid
-A darker version of the [Vimix-Midnight](https://github.com/zortax/Vimix-Midnight) GTK theme.
+A bas16 material darker version of the [Vimix-Midnight](https://github.com/zortax/Vimix-Midnight) GTK theme.
 
-![Screenshot](Screenshot2.png)
+![Screenshot](./assets/screenshot.png)
 
 ### Installation
 ```bash
-sudo git clone https://github.com/deyloop/Vimix-Devoid /usr/share/themes/Vimix-Devoid
+sudo git clone https://github.com/arindas/vimix-base16-material-darker /usr/share/themes/vimix-base16-material-darker
 ```
