@@ -7002,10 +7002,10 @@ insensitive color on backdrop windows*/
 @define-color unfocused_insensitive_color rgba(255, 255, 255, 0.4);
 /*
 widgets main borders color */
-@define-color borders #212121;
+@define-color borders rgba(0, 0, 0, 0.15);
 /*
 widgets main borders color on backdrop windows */
-@define-color unfocused_borders #212121;
+@define-color unfocused_borders rgba(0, 0, 0, 0.15);
 
 @define-color the_background #212121;
 @define-color the_other_background #303030;
