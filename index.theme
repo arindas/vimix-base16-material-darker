@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Vimix-Devoid
-Comment=An Flat Gtk+ theme based on Material Design
+Name=vimix-base16-material-darker
+Comment=An Flat Gtk+ theme based on Material Design and base16 material darker
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=Vimix-Dark-Laptop-Doder
-MetacityTheme=Vimix-Devoid
+MetacityTheme=vimix-base16-material-darker 
 IconTheme=Adwaita
 CursorTheme=Adwaita
 ButtonLayout=menu:minimize,maximize,close
