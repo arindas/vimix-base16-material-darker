@@ -6969,7 +6969,7 @@ base background color of selections */
 @define-color theme_selected_bg_color #82aaff;
 /*
 text/foreground color of selections */
-@define-color theme_selected_fg_color #ffffff;
+@define-color theme_selected_fg_color #212121;
 /*
 base background color of insensitive widgets */
 @define-color insensitive_bg_color #212121;
@@ -7002,10 +7002,10 @@ insensitive color on backdrop windows*/
 @define-color unfocused_insensitive_color rgba(255, 255, 255, 0.4);
 /*
 widgets main borders color */
-@define-color borders rgba(0, 0, 0, 0.15);
+@define-color borders #212121;
 /*
 widgets main borders color on backdrop windows */
-@define-color unfocused_borders rgba(0, 0, 0, 0.15);
+@define-color unfocused_borders #212121;
 
 @define-color the_background #212121;
 @define-color the_other_background #303030;
