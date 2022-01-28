@@ -1,5 +1,5 @@
 # Vimix-Devoid
-A bas16 material darker version of the [Vimix-Midnight](https://github.com/zortax/Vimix-Midnight) GTK theme.
+A base16 material darker version of the [Vimix-Midnight](https://github.com/zortax/Vimix-Midnight) GTK theme.
 
 ![Screenshot](./assets/screenshot.png)
 
