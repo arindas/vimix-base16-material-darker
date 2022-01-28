@@ -7009,7 +7009,7 @@ widgets main borders color on backdrop windows */
 
 @define-color the_background #212121;
 @define-color the_other_background #303030;
-@define-color the_other_background_hover #4a4a4a;
+@define-color the_other_background_hover #303030;
 /*
 these are pretty self explicative */
 @define-color warning_color #f78c6c;
